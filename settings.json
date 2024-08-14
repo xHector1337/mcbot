@@ -1,0 +1,7 @@
+{
+    "address":"EnemysLeaveRoses.aternos.me",
+    "port":25565,
+    "version":"1.8.9",
+    "username":"" // If you leave this empty it'll choose a random one.
+    
+}
