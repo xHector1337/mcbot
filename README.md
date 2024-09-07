@@ -1,3 +1,4 @@
+![2024-08-14_10 55 39](https://github.com/user-attachments/assets/55fd2102-0a70-4c92-b4f4-a7183548df46)
 # Introduction
 
 I love playing Minecraft with my friends. Sometimes we create our own from Aternos, sometimes we join other servers such as Hypixel. When we create our servers from Aternos, queues distract us.
